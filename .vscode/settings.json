@@ -1,0 +1,10 @@
+{
+  "liveSassCompile.setting.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.scc",
+      "savePath": "/src"
+    }
+  ],
+  "liveSassCompile.settings.excludeList": ["/src/assets/code/**"]
+}
