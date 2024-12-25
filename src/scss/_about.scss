@@ -45,6 +45,7 @@
       font-size: 17px;
       padding: 5px;
       color: var(--text-color);
+      z-index: -1;
       position: relative;
 
       &::before {
